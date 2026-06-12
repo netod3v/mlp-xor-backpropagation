@@ -77,8 +77,3 @@ Os gráficos ficam salvos em `results/`:
 - `exp_B_taxa.png` — variação da taxa de aprendizagem
 - `exp_C_seeds.png` — variação da inicialização dos pesos
 - `exp_funcoes_logicas.png` — comparação entre AND, OR, NAND, NOR e XOR
-
-## Artigo
-
-O artigo completo com a descrição teórica, metodologia e discussão dos resultados está disponível em: `[Artigo_MlpXor_Pedro&Guilherme.pdf](https://github.com/user-attachments/files/28863986/Artigo_MlpXor_Pedro.Guilherme.pdf)
-`

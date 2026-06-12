@@ -80,4 +80,5 @@ Os gráficos ficam salvos em `results/`:
 
 ## Artigo
 
-O artigo completo com a descrição teórica, metodologia e discussão dos resultados está disponível em: `[inserir link/nome do PDF aqui]`
+O artigo completo com a descrição teórica, metodologia e discussão dos resultados está disponível em: `[Artigo_MlpXor_Pedro&Guilherme.pdf](https://github.com/user-attachments/files/28863986/Artigo_MlpXor_Pedro.Guilherme.pdf)
+`

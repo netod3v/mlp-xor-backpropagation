@@ -2,6 +2,12 @@
 
 Implementação do zero (sem frameworks) de uma rede Perceptron Multicamadas (MLP) com Backpropagation, aplicada ao problema XOR e a outras funções lógicas (AND, OR, NAND, NOR). Trabalho complementar ao estudo do neurônio Adaline.
 
+Projeto da disciplina de Introdução à Inteligencia Artificial, ministrada pelo Prof. Fábio Oliveira.
+
+Instituto Federal de Brasília (IFB)
+
+Alunos: Guilherme Souza e Pedro Neto
+
 ## Estrutura do projeto
 
 ```
